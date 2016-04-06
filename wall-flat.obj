@@ -1,0 +1,22 @@
+# Alias OBJ Model File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+# File units = inches
+
+mtllib wall-flat.mtl
+
+g Mesh1 Model
+
+usemtl FrontColor
+v 1 0 -1.25
+vt -1 1.25
+vn 0 -1 -0
+v 0 0 -0.75
+vt 0 0.75
+v 0 0 -1.25
+vt 0 1.25
+f 1/1/1 2/2/1 3/3/1
+
+v 1 0 -0.75
+vt -1 0.75
+f 2/2/1 1/1/1 4/4/1
+
